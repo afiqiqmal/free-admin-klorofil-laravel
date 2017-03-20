@@ -1,6 +1,6 @@
 # Klorofil Free Admin Dashboard in Laravel Template
 
-![alt tag](https://s3.amazonaws.com/creativetim_bucket/products/32/original/opt_lbd_thumbnail.jpg?1440064723)
+![alt tag](https://www.themeineed.com/wp-content/uploads/edd/2016/12/smartmockups-screen_device_20.png)
 
 ## Installation
 1. Clone git
